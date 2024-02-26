@@ -21,3 +21,7 @@ Utilize geospatial analysis to understand the geographical distribution of listi
 
 6. Dashboard:
 Utilize Tableau or Power BI to create a comprehensive dashboard that presents key insights from your analysis. Combine different visualizations, such as maps, charts, and tables, to provide a holistic view of the Airbnb dataset and its patterns.
+
+Dashboard Image 
+
+![Airbnb Dashboard](https://github.com/HariharanBS/Airbnb-Analysis/assets/142305120/d45e29fe-697d-476f-b491-8f71a52a9653)
